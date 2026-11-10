@@ -1,15 +1,15 @@
 # Type 2 Diabetes Follow-Up Prioritisation
 
-A study of how dietary recall and other non-laboratory information could help decide who to prioritise for follow-up.
+This study tests whether adding 24-hour dietary recall to non-laboratory information helps prioritise follow-up related to previously diagnosed type 2 diabetes.
 
-![Dietary recalls and non-laboratory inputs inform diabetes follow-up scores. Thresholds are selected on validation data and evaluated on held-out data for workload, precision and recall.](research-workflow.svg)
+![Compare models with dietary, non-dietary and combined inputs. Select alert thresholds on validation data and assess workload, precision and recall on held-out data.](research-workflow.svg)
 
 *Workload-Aware Type 2 Diabetes Follow-Up Prioritisation Using Dietary Recall and Non-Laboratory Information: A Cross-Sectional Study*
 
 | | |
 | --- | --- |
-| **Research question** | How many people would be flagged for follow-up at different decision thresholds, and how many diabetes cases would those thresholds identify? |
-| **Data** | Dietary recalls and non-laboratory information from the US National Health and Nutrition Examination Survey (NHANES). |
-| **Method** | Select thresholds on validation data and evaluate them on held-out data. Compare follow-up workload, precision and recall. Laboratory measurements help define the outcome. |
+| **Research question** | Does dietary recall add information beyond demographic, body-measure and lifestyle predictors for prioritising follow-up? |
+| **Data** | NHANES adults from 1999–2000 through 2017–2018. The primary outcome was a self-reported prior diagnosis classified as type 2 diabetes using a treatment-based algorithm. |
+| **Method** | Compare gradient boosting and logistic regression across predictor sets. Apply validation-selected thresholds to held-out data, compare workload, precision and recall, and evaluate performance on later survey cycles. |
 
 [Back to the research portfolio](https://github.com/Shahin-Ghanbari#featured-research)
