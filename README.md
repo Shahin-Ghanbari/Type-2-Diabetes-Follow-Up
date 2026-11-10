@@ -1,7 +1,13 @@
 # Type 2 Diabetes Follow-Up Prioritisation
 
-**Workload-Aware Type 2 Diabetes Follow-Up Prioritisation Using Dietary Recall and Non-Laboratory Information: A Cross-Sectional Study**
+A study of how dietary recall and other non-laboratory information could help decide who to prioritise for follow-up.
 
-This NHANES study examines whether dietary recalls and non-laboratory information can help prioritise people for diabetes follow-up. It evaluates how different thresholds affect the number of people flagged, the share of flagged people who meet the outcome definition, and the share of cases identified.
+*Workload-Aware Type 2 Diabetes Follow-Up Prioritisation Using Dietary Recall and Non-Laboratory Information: A Cross-Sectional Study*
 
-[Research portfolio](https://github.com/Shahin-Ghanbari)
+| | |
+| --- | --- |
+| **Research question** | How many people would be flagged for follow-up at different decision thresholds, and how many diabetes cases would those thresholds identify? |
+| **Data** | Dietary recalls and non-laboratory information from the US National Health and Nutrition Examination Survey (NHANES). |
+| **Method** | Select thresholds on validation data and evaluate them on held-out data. Compare follow-up workload, precision and recall. Laboratory measurements help define the outcome. |
+
+[Back to the research portfolio](https://github.com/Shahin-Ghanbari#featured-research)
