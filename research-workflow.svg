@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="268" viewBox="0 0 800 268" role="img" aria-labelledby="title description">
-<title id="title">From dietary recall to follow-up workload</title>
-<desc id="description">Dietary recalls and non-laboratory inputs inform diabetes follow-up scores. Thresholds are selected on validation data and evaluated on held-out data for workload, precision and recall.</desc>
+<title id="title">Does dietary recall add value?</title>
+<desc id="description">Compare models with dietary, non-dietary and combined inputs. Select alert thresholds on validation data and assess workload, precision and recall on held-out data.</desc>
 <style>
 text{font-family:Arial,Helvetica,sans-serif}.label{fill:#145c55;font-size:12px;font-weight:700;letter-spacing:1px}.heading{fill:#132c3a;font-size:30px;font-weight:700}.card{fill:#132c3a;font-size:15px;font-weight:700}.body{fill:#304d5a;font-size:14px}
 </style>
 <defs><marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#347c76"/></marker></defs>
 <rect x="1" y="1" width="798" height="266" rx="17" fill="#f3f8f8" stroke="#afc9c7"/>
 <text x="32" y="37" class="label">NHANES  /  FOLLOW-UP PRIORITISATION</text>
-<text x="32" y="77" class="heading">From dietary recall to follow-up workload</text>
+<text x="32" y="77" class="heading">Does dietary recall add value?</text>
 <g fill="none" stroke="#347c76" stroke-width="2" marker-end="url(#arrow)"><path d="M261 178H282"/><path d="M515 178H536"/></g>
-<g transform="translate(32 115)"><rect width="228" height="126" rx="12" fill="#dcefeb" stroke="#afc9c7"/><text x="16" y="26" class="label">01 / INPUTS</text><text x="16" y="56" class="card">Dietary recall</text><text x="16" y="80" class="body">Other non-laboratory</text><text x="16" y="98" class="body">information</text></g>
-<g transform="translate(286 115)"><rect width="228" height="126" rx="12" fill="#ffffff" stroke="#afc9c7"/><text x="16" y="26" class="label">02 / DECISION</text><text x="16" y="56" class="card">Choose thresholds</text><text x="16" y="80" class="body">Select on validation data</text></g>
-<g transform="translate(540 115)"><rect width="228" height="126" rx="12" fill="#ffffff" stroke="#afc9c7"/><text x="16" y="26" class="label">03 / EVALUATION</text><text x="16" y="56" class="card">Measure workload</text><text x="16" y="80" class="body">Assess precision and recall</text><text x="16" y="98" class="body">on held-out data</text></g>
+<g transform="translate(32 115)"><rect width="228" height="126" rx="12" fill="#dcefeb" stroke="#afc9c7"/><text x="16" y="26" class="label">01 / INPUTS</text><text x="16" y="56" class="card">Compare predictor sets</text><text x="16" y="80" class="body">Dietary, non-dietary</text><text x="16" y="98" class="body">and combined inputs</text></g>
+<g transform="translate(286 115)"><rect width="228" height="126" rx="12" fill="#ffffff" stroke="#afc9c7"/><text x="16" y="26" class="label">02 / DECISION</text><text x="16" y="56" class="card">Choose alert thresholds</text><text x="16" y="80" class="body">Select on validation data</text></g>
+<g transform="translate(540 115)"><rect width="228" height="126" rx="12" fill="#ffffff" stroke="#afc9c7"/><text x="16" y="26" class="label">03 / EVALUATION</text><text x="16" y="56" class="card">Assess follow-up workload</text><text x="16" y="80" class="body">Compare precision and recall</text><text x="16" y="98" class="body">on held-out data</text></g>
 </svg>
