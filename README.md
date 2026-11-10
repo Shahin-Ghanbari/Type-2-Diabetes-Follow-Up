@@ -2,6 +2,8 @@
 
 A study of how dietary recall and other non-laboratory information could help decide who to prioritise for follow-up.
 
+![Dietary recalls and non-laboratory inputs inform diabetes follow-up scores. Thresholds are selected on validation data and evaluated on held-out data for workload, precision and recall.](research-workflow.svg)
+
 *Workload-Aware Type 2 Diabetes Follow-Up Prioritisation Using Dietary Recall and Non-Laboratory Information: A Cross-Sectional Study*
 
 | | |
