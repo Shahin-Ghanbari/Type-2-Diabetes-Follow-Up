@@ -2,7 +2,7 @@
 
 This study tests whether adding 24-hour dietary recall to non-laboratory information helps prioritise follow-up related to previously diagnosed type 2 diabetes.
 
-![Compare models with dietary, non-dietary and combined inputs. Select alert thresholds on validation data and assess workload, precision and recall on held-out data.](research-workflow.svg)
+![Compare dietary, non-dietary and combined inputs for type 2 diabetes follow-up prioritisation. Fit and compare models, select alert thresholds on validation data and assess follow-up workload, precision and recall on held-out data.](research-workflow.svg)
 
 *Workload-Aware Type 2 Diabetes Follow-Up Prioritisation Using Dietary Recall and Non-Laboratory Information: A Cross-Sectional Study*
 
